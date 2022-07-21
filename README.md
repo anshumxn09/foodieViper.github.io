@@ -1,0 +1,2 @@
+# foodieviper.github.io
+Foodie VIPER is a snake game, as we have played in our chilldhood specially in the nokia's phone, now it's a time to understand how the programming language understand the functions and how it is going to be implemented, the major role played while working on this game was GRID SYSTEM i have not imagine that we are gonna use grid for the snake playboard and ARRAY for snake body, understood alot from this game and it was a great fun :)
